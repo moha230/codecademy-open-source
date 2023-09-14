@@ -1,3 +1,3 @@
-#codecademey-open-source
+#**Codecademey-open-source**
 
-ist a simple open source repository Hi :)
+its a simple open source repository. Hi!
